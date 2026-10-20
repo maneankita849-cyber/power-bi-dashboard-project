@@ -1,2 +1,2 @@
 # power-bi-dashboard-project
-This is company HR analytics dashboard using power bi tool
+This is Super store sales dashboard using power bi tool
